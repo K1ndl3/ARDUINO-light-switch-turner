@@ -26,4 +26,6 @@ I was having some annoyance reading at night (I was reading Golden Son and Morni
 | Servo Library|
 | IRRemote Libary|
 
+### Schematic
 
+![Schematic for wiring](light-turner-schematics.png)
