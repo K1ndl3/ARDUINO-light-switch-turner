@@ -16,5 +16,14 @@ I was having some annoyance reading at night (I was reading Golden Son and Morni
 | Portable 5V USB Power Bank | 1 |
 | Female-to-Male Dupont Jumper Wires | 3 |
 | Male-to-Male Breadboard Jumper Wires | 3 |
+|USB-Cable| 1 |
 
 ### Software and Dependencies
+
+|Software & External Libraries|
+| :---: |
+| Arduino IDE|
+| Servo Library|
+| IRRemote Libary|
+
+
