@@ -32,4 +32,8 @@ I was having some annoyance reading at night (I was reading Golden Son and Morni
 
 ### Demo
 
+Here is a Youtube Shorts demoing the functionality of the project
 ![Demo Video](https://www.youtube.com/shorts/AkWe3r64MZk)
+
+Here is a picture of the hardware set up
+
