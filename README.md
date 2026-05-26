@@ -1,6 +1,6 @@
 # Light Turner using Arduino Uno, IR Receiver Module, IR Remote Control and SG90 Servo
 
-I was having some annoyance reading at night (I was reading Golden Son and Morning Start). I needed the light to be on to read but the pain of getting out of my bed and turning it off was irritating. So, armed with an arduino starter kit, I drafted a solution to my first world problem. I needed something that would allow me to turn off the light without ever getting up. Here is my solution:
+I was having some annoyance reading at night (Golden Son and Morning Star). I needed the light to be on to read but the pain of getting out of my bed and turning it off was irritating. So, armed with an arduino starter kit, I drafted a solution to my first world problem. I needed something that would allow me to turn off the light without ever getting up. Here is my solution:
 
 # Specs:
 
@@ -26,11 +26,11 @@ I was having some annoyance reading at night (I was reading Golden Son and Morni
 | Servo Library|
 | IRRemote Libary|
 
-### Schematic
+# Schematic
 
 ![Schematic for wiring](light-turner-schematics.png)
 
-### Demo
+# Demo
 
 Here is a Youtube Shorts demoing the functionality of the project
 ![Demo Video](https://www.youtube.com/shorts/AkWe3r64MZk)
