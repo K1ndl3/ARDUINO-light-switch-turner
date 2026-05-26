@@ -80,6 +80,7 @@ void loop() {
         delay(500);
         servo.write(0);
         timerStart = false;
+        blink = false;
       }
   }
   delay(200);
