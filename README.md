@@ -36,4 +36,4 @@ Here is a Youtube Shorts demoing the functionality of the project
 ![Demo Video](https://www.youtube.com/shorts/AkWe3r64MZk)
 
 Here is a picture of the hardware set up
-
+![Demo Picture](demo_picture.jpg)
